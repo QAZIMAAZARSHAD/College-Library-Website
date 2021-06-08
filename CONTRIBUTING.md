@@ -21,7 +21,7 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
 4. Check the remotes for this repository.
    git remote -v
 5. Always take a pull from the upstream repository to your master branch to keep it at par with the main project.
-   git pull upstream master
+   git pull upstream master.
 6. Create a new branch: `git checkout -b my-branch-name`.
 7. Perfom your desired changes to the code base.
 8. Push to your fork and submit a pull request.
